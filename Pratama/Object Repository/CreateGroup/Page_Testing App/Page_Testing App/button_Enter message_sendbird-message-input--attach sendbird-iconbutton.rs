@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enter message_sendbird-message-input--attach sendbird-iconbutton</name>
+   <tag></tag>
+   <elementGuidId>c4cc9f5b-1483-4121-bc9f-509da89fb3d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sendbird-message-input--attach.sendbird-iconbutton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f09afd5d-753a-4837-be50-6e80adea4513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-message-input--attach sendbird-iconbutton </value>
+      <webElementGuid>e55c3654-88dc-4ac2-b6da-242e8d44224d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0034bb7f-997c-4166-b7b6-89e45432ce20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__conversation-wrap&quot;]/div[@class=&quot;sendbird-conversation&quot;]/div[@class=&quot;sendbird-conversation__footer&quot;]/div[@class=&quot;sendbird-message-input-wrapper&quot;]/form[@class=&quot;sendbird-message-input-wrapper__message-input&quot;]/div[@class=&quot;sendbird-message-input&quot;]/button[@class=&quot;sendbird-message-input--attach sendbird-iconbutton&quot;]</value>
+      <webElementGuid>11bc2449-b76a-4d77-b9e6-1c2bfd273ac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>dd905586-24cd-46f5-b836-acaffc378dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div[3]/div/form/div/button</value>
+      <webElementGuid>d62ca4e1-2b54-4ee1-b191-1ecc5ede9d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter message'])[1]/following::button[1]</value>
+      <webElementGuid>bf69ddf1-22f0-4d27-aa87-85240b84ebd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='halo'])[2]/following::button[1]</value>
+      <webElementGuid>66e1cc6c-c64e-4a57-9396-5ec33d3d8382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>978f5212-863e-4fbc-8e9d-3959d59cdaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>2546adc9-3c6d-4b9b-94ae-1bf5b29e742b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>56a55416-1084-4d83-a468-613b7ee8b5f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sendbird-button.sendbird-button--primary.sendbird-button--big > span.sendbird-button__text.sendbird-label.sendbird-label--button-1.sendbird-label--color-oncontent-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0685c998-4af3-4996-b0e8-2dfd6e317524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-button__text sendbird-label sendbird-label--button-1 sendbird-label--color-oncontent-1</value>
+      <webElementGuid>a82d8a33-35d0-4230-a91d-3bc8a4ca4bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>a4f9907a-bb8a-4ba3-9c46-135330fe5d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sendbird-modal-root&quot;)/div[@class=&quot;sendbird-modal&quot;]/div[@class=&quot;sendbird-modal__content&quot;]/div[@class=&quot;sendbird-modal__footer&quot;]/button[@class=&quot;sendbird-button  sendbird-button--primary sendbird-button--big&quot;]/span[@class=&quot;sendbird-button__text sendbird-label sendbird-label--button-1 sendbird-label--color-oncontent-1&quot;]</value>
+      <webElementGuid>4b1babe9-9a81-4a7f-9ad3-9a49d11bfb46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sendbird-modal-root']/div/div/div[3]/button[2]/span</value>
+      <webElementGuid>096974c8-48d5-4651-a60f-82bc1e8f7c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>b20e8460-5105-4cdb-bd1e-1d83c4a40ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark theme'])[1]/following::span[3]</value>
+      <webElementGuid>2d992d89-8c81-48c3-94ff-36d4b51055b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>f9e506de-a567-4c94-a34a-821c7f14ef03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>1fbfc960-cfaf-4c61-bf8f-fc721b0b98e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>7c634072-cba6-4ee6-aa3d-a9b7829edd2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello</name>
+   <tag></tag>
+   <elementGuidId>42c7cdeb-dd25-4aef-8868-fa0a64c1dc49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Hello']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sendbird-message-content__middle__message-item-body.sendbird-text-message-item-body.incoming.mouse-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fef9ee5c-e15e-40a2-8658-6d3c98947005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-message-content__middle__message-item-body sendbird-text-message-item-body incoming mouse-hover </value>
+      <webElementGuid>5d7ed90a-d79b-4734-89fa-122d3be06fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello</value>
+      <webElementGuid>9d92f989-ea3e-46da-903c-36af19b40e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__conversation-wrap&quot;]/div[@class=&quot;sendbird-conversation&quot;]/div[@class=&quot;sendbird-conversation__messages sendbird-conversation__message-list&quot;]/div[@class=&quot;sendbird-conversation__scroll-container&quot;]/div[@class=&quot;sendbird-conversation__messages-padding&quot;]/div[@class=&quot;sendbird-msg-hoc sendbird-msg--scroll-ref&quot;]/div[@class=&quot;sendbird-message-hoc__message-content sendbird-message-content incoming&quot;]/div[@class=&quot;sendbird-message-content__middle&quot;]/div[@class=&quot;sendbird-message-content__middle__body-container&quot;]/span[@class=&quot;sendbird-label sendbird-label--body-1 sendbird-label--color-onbackground-1&quot;]/div[@class=&quot;sendbird-message-content__middle__message-item-body sendbird-text-message-item-body incoming mouse-hover&quot;]</value>
+      <webElementGuid>bea1938a-217b-4de1-9eb6-ea064cf6a86f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div[2]/div/span/div</value>
+      <webElementGuid>f98e511c-7997-4c6a-808d-de180165a692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pratama16'])[1]/following::div[2]</value>
+      <webElementGuid>a1901354-56d7-4966-81dc-a6de2633d0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pratama16, Pratama17 and Pratama18 joined.'])[1]/following::div[6]</value>
+      <webElementGuid>873506fc-7591-4201-9eaa-c93c837cd894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FileTxt.txt'])[1]/preceding::div[48]</value>
+      <webElementGuid>b2dc6836-633a-407c-8e48-1fb78df7c166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter message'])[1]/preceding::div[66]</value>
+      <webElementGuid>fb9e7a4b-c77b-40e1-bb18-dc7778ce232a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello']/parent::*</value>
+      <webElementGuid>9987a97e-f458-4fed-a2f4-38dcfed55a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/div</value>
+      <webElementGuid>52acc298-44ad-443d-ba07-558e906a1a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hello' or . = 'Hello')]</value>
+      <webElementGuid>ac21dea6-8772-4f21-9eb8-749c8a3e9854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

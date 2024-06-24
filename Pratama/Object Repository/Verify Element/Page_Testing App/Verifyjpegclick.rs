@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verifyjpegclick</name>
+   <tag></tag>
+   <elementGuidId>7a400e89-e03f-4c36-bf8b-0af71fdc60df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class= 'sendbird-image-renderer__hidden-image-loader' and @alt = 'image/jpeg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sendbird-thumbnail-message-item-body__image-cover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35124de9-e78b-4e77-8fb6-baba48b0ca1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-thumbnail-message-item-body__image-cover</value>
+      <webElementGuid>459089c6-0133-4d1b-ab1a-d786782c7dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__conversation-wrap&quot;]/div[@class=&quot;sendbird-conversation&quot;]/div[@class=&quot;sendbird-conversation__messages sendbird-conversation__message-list&quot;]/div[@class=&quot;sendbird-conversation__scroll-container&quot;]/div[@class=&quot;sendbird-conversation__messages-padding&quot;]/div[@class=&quot;sendbird-msg-hoc sendbird-msg--scroll-ref&quot;]/div[@class=&quot;sendbird-message-hoc__message-content sendbird-message-content incoming&quot;]/div[@class=&quot;sendbird-message-content__middle&quot;]/div[@class=&quot;sendbird-message-content__middle__body-container&quot;]/div[@class=&quot;sendbird-message-content__middle__message-item-body sendbird-thumbnail-message-item-body incoming mouse-hover&quot;]/div[@class=&quot;sendbird-thumbnail-message-item-body__image-cover&quot;]</value>
+      <webElementGuid>9d53e2ec-9ef3-4606-aa26-db087555dc75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div[2]/div/div[2]/div[3]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>6744514a-74d9-42ab-bce2-2411790a398c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>bde952f9-d5d0-4741-92f3-b274f43f93dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
