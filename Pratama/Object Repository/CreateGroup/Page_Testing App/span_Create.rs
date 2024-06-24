@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create</name>
+   <tag></tag>
+   <elementGuidId>944cb65f-9750-41a1-b658-8c2cb4e21155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sendbird-button.sendbird-button--primary.sendbird-button--big > span.sendbird-button__text.sendbird-label.sendbird-label--button-1.sendbird-label--color-oncontent-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75fa2115-90c2-4fb8-9136-9ebaf84777e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-button__text sendbird-label sendbird-label--button-1 sendbird-label--color-oncontent-1</value>
+      <webElementGuid>fa882a47-f238-42bc-a4c6-f019c2e2cbd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>9a4b8041-168b-44fc-9906-169231a41278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sendbird-modal-root&quot;)/div[@class=&quot;sendbird-modal&quot;]/div[@class=&quot;sendbird-modal__content&quot;]/div[@class=&quot;sendbird-modal__footer&quot;]/button[@class=&quot;sendbird-button  sendbird-button--primary sendbird-button--big&quot;]/span[@class=&quot;sendbird-button__text sendbird-label sendbird-label--button-1 sendbird-label--color-oncontent-1&quot;]</value>
+      <webElementGuid>86964bc6-dbc5-4949-b8c3-43b027d01aa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sendbird-modal-root']/div/div/div[3]/button[2]/span</value>
+      <webElementGuid>a9abdd89-01ce-49fa-9c2a-f162021e15b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>982c4259-2109-4181-8c5b-c0b9a30506e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hoedhi'])[1]/following::span[4]</value>
+      <webElementGuid>bfd1e39c-1659-4fd6-bad2-24de641c1072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>a5f1657f-2ddd-4d50-8efc-6e1821661242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>aecbac68-5668-40ef-8d90-ee5d0ec2cd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>7db50271-b2f1-4112-aaec-c2da22c774aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

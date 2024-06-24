@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_halo</name>
+   <tag></tag>
+   <elementGuidId>cf68892c-a0c9-4de6-9522-4acbe6d0e95f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'halo' or . = 'halo')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sendbird-message-content__middle__message-item-body.sendbird-text-message-item-body.outgoing.mouse-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04c5766b-f3bf-49fc-9509-afe5c038b217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-message-content__middle__message-item-body sendbird-text-message-item-body outgoing mouse-hover </value>
+      <webElementGuid>4404e243-ce8f-40d4-99f6-4a827fc027ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>halo</value>
+      <webElementGuid>d78d7afe-d98b-4546-a33e-cb62805b4643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__conversation-wrap&quot;]/div[@class=&quot;sendbird-conversation&quot;]/div[@class=&quot;sendbird-conversation__messages sendbird-conversation__message-list&quot;]/div[@class=&quot;sendbird-conversation__scroll-container&quot;]/div[@class=&quot;sendbird-conversation__messages-padding&quot;]/div[@class=&quot;sendbird-msg-hoc sendbird-msg--scroll-ref&quot;]/div[@class=&quot;sendbird-message-hoc__message-content sendbird-message-content outgoing&quot;]/div[@class=&quot;sendbird-message-content__middle&quot;]/div[@class=&quot;sendbird-message-content__middle__body-container&quot;]/span[@class=&quot;sendbird-label sendbird-label--body-1 sendbird-label--color-oncontent-1&quot;]/div[@class=&quot;sendbird-message-content__middle__message-item-body sendbird-text-message-item-body outgoing mouse-hover&quot;]</value>
+      <webElementGuid>7bdd96a9-d7d8-4edc-a9e2-234e7ebfcc14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div[2]/div/span/div</value>
+      <webElementGuid>078cf354-c62b-4563-87ac-14e7270e6782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pratama16, Pratama17 and Pratama18 joined.'])[1]/following::div[16]</value>
+      <webElementGuid>e793efa2-c3bd-4453-8e9f-0651eec6596a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 23, 2024'])[1]/following::div[18]</value>
+      <webElementGuid>588accad-bf3b-409f-9c07-098adfe65047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter message'])[1]/preceding::div[2]</value>
+      <webElementGuid>066c3363-f071-4f00-9111-c03284098945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/div</value>
+      <webElementGuid>0f56ba76-f4c9-4800-97c9-58fec41ebadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'halo' or . = 'halo')]</value>
+      <webElementGuid>9339d67a-cd96-4059-9aca-0347ee87d3ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

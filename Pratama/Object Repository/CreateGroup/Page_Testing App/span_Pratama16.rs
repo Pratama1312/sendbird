@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pratama16</name>
+   <tag></tag>
+   <elementGuidId>b5d434c0-e5f1-4d10-ae77-2a1acda57150</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Pratama16' or . = 'Pratama16')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sendbird-channel-header__title__right__name.sendbird-label.sendbird-label--subtitle-2.sendbird-label--color-onbackground-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>469dd458-2903-4c72-8a5b-5ebd8f1f7c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sendbird-channel-header__title__right__name sendbird-label sendbird-label--subtitle-2 sendbird-label--color-onbackground-1</value>
+      <webElementGuid>ae89411c-d1b5-4f86-b698-bb4c4d8b1965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pratama16</value>
+      <webElementGuid>cdfef278-bd34-4bfc-9aa8-8eaadccb4263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sendbird-app__wrap&quot;]/div[@class=&quot;sendbird-app__channellist-wrap&quot;]/div[@class=&quot;sendbird-channel-list&quot;]/div[@class=&quot;sendbird-channel-list__header&quot;]/div[@class=&quot;sendbird-ui-header sendbird-channel-header sendbird-channel-header--allow-edit&quot;]/div[@class=&quot;sendbird-ui-header__middle&quot;]/div[@class=&quot;sendbird-channel-header__title&quot;]/div[@class=&quot;sendbird-channel-header__title__right&quot;]/span[@class=&quot;sendbird-channel-header__title__right__name sendbird-label sendbird-label--subtitle-2 sendbird-label--color-onbackground-1&quot;]</value>
+      <webElementGuid>228d3839-9b50-4d2d-ad71-611d54fa535a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div/div[2]/span</value>
+      <webElementGuid>5c966eb8-d965-49ca-9196-d837fab5006c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pratama16'])[2]/preceding::span[1]</value>
+      <webElementGuid>43683443-d9d6-4381-8353-39fa75e44daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No channels'])[1]/preceding::span[3]</value>
+      <webElementGuid>fa066c99-dc4c-4f47-bd2e-defe07632412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pratama16']/parent::*</value>
+      <webElementGuid>ad8e1494-35b7-450c-b956-6182ad62647e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>3a031ff6-7960-440e-b0b3-58ed483f1a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pratama16' or . = 'Pratama16')]</value>
+      <webElementGuid>eb0c3613-bee6-4612-b1ff-05e7b09b100a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
